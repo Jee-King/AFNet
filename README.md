@@ -7,7 +7,7 @@
 </p>
 
 This is the code for the CVPR23 paper **Frame-Event Alignment and Fusion Network for High Frame Rate Tracking**
-([PDF](https://arxiv.pdf)) by [Jiqing Zhang](https://zhangjiqing.com/), Yuanchen Wang, [Wenxi Liu](https://wenxiliu.github.io/), Meng Li, Jinpeng Bai, Baocai Yin,  and [Xin Yang](https://xinyangdut.github.io/).
+([PDF](https://arxiv.org/pdf/2305.15688.pdf)) by [Jiqing Zhang](https://zhangjiqing.com/), Yuanchen Wang, [Wenxi Liu](https://wenxiliu.github.io/), Meng Li, Jinpeng Bai, Baocai Yin,  and [Xin Yang](https://xinyangdut.github.io/).
  
 
 If you use any of this code, please cite the following publication:
